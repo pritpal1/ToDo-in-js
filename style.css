@@ -1,0 +1,24 @@
+body{
+    background-color: #34495a;
+}
+#container{
+width: 350px;
+height: 800px;
+margin: 0 auto;
+text-align: center;
+background: white;
+border: 10px solid ;
+border-radius: 10px;
+}
+#container h1{
+margin-top: 50px;
+margin-bottom: 50px;
+text-transform: uppercase;
+}
+#container ul{
+margin-top: 50px;
+padding-left: 0;
+}
+#container ul li{
+list-style: none;
+}
